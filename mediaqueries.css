@@ -1,0 +1,47 @@
+@media screen and (max-width:900px) {
+     body {
+        /* font-size: 3em; */
+    }
+
+    .profile-container {
+     display: block;
+     padding: 5em 0;
+    }
+
+    .profile_pic {
+        width: 10%;
+        height: 10%;
+    }
+
+    .button-container {
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+
+    }
+
+    .about__experience {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .skills__container {
+        display: block;
+        padding: 5em 5em;
+    }
+
+    .developement__skills {
+       padding: 5em 5em;
+    }
+
+    .project__containers {
+        display: block;
+        padding: 5em 5em;
+    }
+
+
+
+
+
+
+    }
