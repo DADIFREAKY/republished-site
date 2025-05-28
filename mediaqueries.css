@@ -27,17 +27,29 @@
 
     .skills__container {
         display: block;
+        margin: 0 0;
         padding: 5em 5em;
     }
 
     .developement__skills {
        padding: 5em 5em;
+        margin: 0em 0em 3em 0em;
     }
 
     .project__containers {
         display: block;
         padding: 5em 5em;
     }
+
+    .project__advertisement {
+         margin: 0em 0em 3em 0em;
+    }
+
+    .title {
+        margin: 2em;
+    }
+
+    
 
 
 
